@@ -1,6 +1,7 @@
 # Color Tap (Flutter)
 
-A clean, modern, kid‑friendly **color matching game** built with Flutter and Material 3. The app is designed as a hands‑on exercise to master the **`Scaffold`** layout (AppBar, Drawer, FloatingActionButton, BottomAppBar, SnackBars, BottomSheet) while keeping the gameplay delightful and accessible.
+A clean, modern, kid‑friendly **color matching game** built with Flutter and Material 3. 
+The app is designed as a hands‑on exercise to master the **`Scaffold`** layout (AppBar, Drawer, FloatingActionButton, BottomAppBar, SnackBars, BottomSheet) while keeping the gameplay delightful and accessible.
 
 ---
 
@@ -57,7 +58,7 @@ color_tap/
 
 ```bash
 # clone
-git clone https://github.com/<your-username>/color_tap.git
+git clone https://github.com/<bektas-sari>/color_tap.git
 cd color_tap
 
 # fetch deps
